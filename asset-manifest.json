@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/customer-portal-react/ph/static/css/main.83f2c5cd.css",
-    "main.js": "/customer-portal-react/ph/static/js/main.58e5a843.js",
-    "static/media/bg.webp": "/customer-portal-react/ph/static/media/bg.1670c72ef36bb090d777.webp",
-    "static/media/logo.svg": "/customer-portal-react/ph/static/media/logo.9cd6f78cbc54395f88b5b267d1553928.svg",
-    "static/media/DSC06689.webp": "/customer-portal-react/ph/static/media/DSC06689.007107fd646de64c742a.webp",
-    "static/media/DSC06654.webp": "/customer-portal-react/ph/static/media/DSC06654.404f2b26990b8b20c33d.webp",
-    "static/media/placeholder_profile.webp": "/customer-portal-react/ph/static/media/placeholder_profile.df97cc4904294a964759.webp",
-    "static/media/DSC06679.webp": "/customer-portal-react/ph/static/media/DSC06679.fdb7583b32e7e045b6c2.webp",
-    "static/media/slick.svg": "/customer-portal-react/ph/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/customer-portal-react/ph/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/customer-portal-react/ph/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/customer-portal-react/ph/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/customer-portal-react/ph/index.html",
-    "main.83f2c5cd.css.map": "/customer-portal-react/ph/static/css/main.83f2c5cd.css.map",
-    "main.58e5a843.js.map": "/customer-portal-react/ph/static/js/main.58e5a843.js.map"
+    "main.css": "/customer-portal-react/static/css/main.bc8a147e.css",
+    "main.js": "/customer-portal-react/static/js/main.d83bf53c.js",
+    "static/media/bg.webp": "/customer-portal-react/static/media/bg.1670c72ef36bb090d777.webp",
+    "static/media/logo.svg": "/customer-portal-react/static/media/logo.9cd6f78cbc54395f88b5b267d1553928.svg",
+    "static/media/DSC06689.webp": "/customer-portal-react/static/media/DSC06689.007107fd646de64c742a.webp",
+    "static/media/DSC06654.webp": "/customer-portal-react/static/media/DSC06654.404f2b26990b8b20c33d.webp",
+    "static/media/placeholder_profile.webp": "/customer-portal-react/static/media/placeholder_profile.df97cc4904294a964759.webp",
+    "static/media/DSC06679.webp": "/customer-portal-react/static/media/DSC06679.fdb7583b32e7e045b6c2.webp",
+    "static/media/slick.svg": "/customer-portal-react/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/customer-portal-react/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/customer-portal-react/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/customer-portal-react/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/customer-portal-react/index.html",
+    "main.bc8a147e.css.map": "/customer-portal-react/static/css/main.bc8a147e.css.map",
+    "main.d83bf53c.js.map": "/customer-portal-react/static/js/main.d83bf53c.js.map"
   },
   "entrypoints": [
-    "static/css/main.83f2c5cd.css",
-    "static/js/main.58e5a843.js"
+    "static/css/main.bc8a147e.css",
+    "static/js/main.d83bf53c.js"
   ]
 }
