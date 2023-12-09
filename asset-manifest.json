@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/customer-portal-react/static/css/main.5f2bd85b.css",
-    "main.js": "/customer-portal-react/static/js/main.c5c6c7b4.js",
+    "main.css": "/customer-portal-react/static/css/main.fb6de491.css",
+    "main.js": "/customer-portal-react/static/js/main.ea603979.js",
     "static/media/bg.webp": "/customer-portal-react/static/media/bg.1670c72ef36bb090d777.webp",
     "static/media/logo.svg": "/customer-portal-react/static/media/logo.9cd6f78cbc54395f88b5b267d1553928.svg",
     "static/media/DSC06689.webp": "/customer-portal-react/static/media/DSC06689.007107fd646de64c742a.webp",
@@ -13,11 +13,11 @@
     "static/media/slick.ttf": "/customer-portal-react/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/customer-portal-react/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/customer-portal-react/index.html",
-    "main.5f2bd85b.css.map": "/customer-portal-react/static/css/main.5f2bd85b.css.map",
-    "main.c5c6c7b4.js.map": "/customer-portal-react/static/js/main.c5c6c7b4.js.map"
+    "main.fb6de491.css.map": "/customer-portal-react/static/css/main.fb6de491.css.map",
+    "main.ea603979.js.map": "/customer-portal-react/static/js/main.ea603979.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f2bd85b.css",
-    "static/js/main.c5c6c7b4.js"
+    "static/css/main.fb6de491.css",
+    "static/js/main.ea603979.js"
   ]
 }
